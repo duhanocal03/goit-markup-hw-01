@@ -1,3 +1,55 @@
-p{
-    
+body{
+    font-family: 'Roboto',sans-serif;
+    font-size: 16px;
+    line-height: 24px;
 }
+
+input[type="button"] {
+ cursor: pointer;
+ font-weight: medium;
+ font-size: 16px;
+ letter-spacing: 4%;    
+ background-color: #4D5AE5;
+ color: #FFFFFF;
+ width: 169;
+ height: 56;
+ border: 1px solid #4D5AE5;
+ border-radius: 1px;
+ padding: 16px 32px;
+}
+
+input[type="button"]:hover{
+    background-color: #404BBF;
+}
+
+h1{
+    font-size: 56px;
+    font-weight: bold;
+    letter-spacing: 2% ;
+    line-height: 60px;
+}
+
+h2{
+    font-weight: bold;
+    font-size:36px;
+   
+}
+
+h3 {
+    font-weight:medium;
+    font-size: 20px;
+   
+}
+
+.menu li a{
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+.menu li a:hover {
+    color: #404BBF;
+}
+
+.menu li a:first-child:active{
+    border-bottom: 2px solid #404BBF;
+    padding-bottom: 4px; }
