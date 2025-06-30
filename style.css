@@ -1,7 +1,7 @@
 body{
     font-family: 'Roboto',sans-serif;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
 }
 
 .buton {
@@ -58,6 +58,14 @@ h3 {
     padding-bottom: 4px;
 }
 
+.comms a{
+    text-decoration: none;
+    color: #434455;
+}
+
+.comms a:hover{
+    color: #404BBF;
+}
 
 
 
