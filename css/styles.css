@@ -6,13 +6,13 @@ body{
 
 .buton {
  cursor: pointer;
- font-weight: medium;
+ /*font-weight: medium; */
  font-size: 16px;
- letter-spacing: 4%;    
+ /* letter-spacing: 4%; */    
  background-color: #4D5AE5;
  color: #FFFFFF;
- width: 169;
- height: 56;
+/* width: 169;
+ height: 56; */
  border: 1px solid #4D5AE5;
  border-radius: 4px;
  padding: 16px 32px;
